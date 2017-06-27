@@ -1,0 +1,2 @@
+require './helloworld'
+run HiSinatra
